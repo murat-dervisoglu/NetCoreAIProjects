@@ -1,0 +1,17 @@
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\bin\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.exe
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\bin\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.deps.json
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\bin\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.runtimeconfig.json
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\bin\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.dll
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\bin\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.pdb
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.csproj.AssemblyReference.cache
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.AssemblyInfoInputs.cache
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.AssemblyInfo.cs
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.csproj.CoreCompileInputs.cache
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreA.029F450A.Up2Date
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.dll
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\refint\NetCoreAI.Projec8_Groq_translate.dll
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.pdb
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\NetCoreAI.Projec8_Groq_translate.genruntimeconfig.cache
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Projec8_Groq_translate\obj\Debug\net9.0\ref\NetCoreAI.Projec8_Groq_translate.dll

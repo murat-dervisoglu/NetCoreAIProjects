@@ -1,0 +1,17 @@
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.csproj.AssemblyReference.cache
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.AssemblyInfoInputs.cache
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.AssemblyInfo.cs
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.csproj.CoreCompileInputs.cache
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\bin\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.exe
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\bin\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.deps.json
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\bin\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.runtimeconfig.json
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\bin\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.dll
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\bin\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.pdb
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreA.F27F2156.Up2Date
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.dll
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\refint\NetCoreAI.Project6_OpenAIImageCreate.dll
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.pdb
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\NetCoreAI.Project6_OpenAIImageCreate.genruntimeconfig.cache
+C:\Users\murat\Documents\Visual Studio 2022\NetCoreAI\NetCoreAI.Project6_OpenAIImageCreate\obj\Debug\net9.0\ref\NetCoreAI.Project6_OpenAIImageCreate.dll
